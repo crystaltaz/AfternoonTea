@@ -1,0 +1,195 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	color: #5F5F68;
+	background: url("images/background2.png") no-repeat top fixed;
+	background-size: 100%;
+	background-position-y: -220px;
+	background-repeat: no-repeat;
+	background-color: #FAE0A3;
+}
+header {
+	display: flex;
+	justify-content: space-between;
+	color: #5F5F68;
+	margin: 10px 80px;
+}
+#logo {
+	margin-top: 25px;
+}
+#nav {
+	margin-top: 35px;
+	display: flex;
+	justify-content: space-between;
+	width: 480px;
+}
+a {
+	text-decoration: none;
+	color: #5F5F68;
+}
+a#tab-1:hover {
+    color:#9B6042;
+}
+a#tab-2:hover {
+    color:#3CA08D;
+}
+a#tab-3:hover {
+    color:#BF7C81;
+}
+a#tab-4:hover {
+    color:#E4A883;
+}
+a#tab-5:hover {
+    color:#E4BB5E;
+}
+a#tab-6:hover {
+    color:#E4A883;
+}
+a#tab-7:hover {
+    color: #D8B2B5;
+}
+a#tab-8:hover {
+    color:#3CA08D;
+}
+#treats:hover {
+	transition: transform .4s;
+    transform:scale(1.2);
+}
+#scones:hover {
+    transition: transform .4s;
+    transform:scale(1.2);
+}
+#sandwich:hover {
+    transition: transform .4s;
+    transform:scale(1.2);
+}
+h3 {
+	font-family: Neighbor;
+	font-weight: lighter;
+	font-style: normal;
+	font-size: 12px; 
+}
+li {
+	font-family: Neighbor;
+	list-style: none;
+	text-decoration: none;
+	margin: 25px;
+}
+#section1 {
+	margin-top: 150px;
+}
+h1 {
+	text-align: center;
+	font-family: "dejanire-headline", serif;
+	font-weight: normal;
+	font-size: 50px;
+}
+#section2 {
+	margin-top: 200px;
+}
+#section3 {
+	background-color: white;
+	display: flex;
+	justify-content: space-between;
+	margin-top: -10px;
+	padding: 100px, 220px;
+}
+#div1 {
+	display: flex;
+	flex-direction: column;
+	height: 750px;
+	width: 500px;
+	margin-left: 220px;
+	margin-top: 100px;
+}
+h2 {
+	font-family: "bc-eric-machat-script", sans-serif;
+	font-weight: 100;
+	font-style: normal;
+	font-size: 25px;
+	line-height: 100px;
+	margin: 0px;
+}
+#paragraph {
+	height: 500px;
+}
+#div2 {
+	display: flex;
+	justify-content: space-evenly;
+	margin-right: 200px;
+	margin-top: 200px;
+	height: 500px;
+}
+#tierimage {
+	text-align: center;
+}
+#treats {
+	margin-top: -385px;
+}
+#scones {
+	margin-top: 70px;
+}
+#sandwich {
+	margin-top: 70px;
+}
+#course123 {
+	margin-left: -100px;
+	font-family: Dejanire Headline;
+	font-weight: normal;
+	font-size: 25px;
+}
+#course1 {
+	width: 200px;
+	margin-top: 130px;
+	margin-left: -300px;
+	font-family: Dejanire Headline;
+	font-weight: normal;
+	font-style: normal;
+}
+#course2 {
+	margin-top: 110px;
+	font-family: Dejanire Headline;
+	font-weight: normal;
+	font-style: normal;
+}
+#course3 {
+	margin-top: 80px;
+	margin-left: -250px;
+	font-family: Dejanire Headline;
+	font-weight: normal;
+	font-style: normal;
+}
+#course {
+	font-family: Bell MT;
+	font-weight: normal;
+	font-style: italic;
+}
+p {  
+	font-family: Bell MT;
+}
+footer {
+	margin: 0px;
+	background-color: #F8F3E7;
+}
+#content {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+h6 {
+	font-family: Dejanire Headline;
+	font-weight: normal;
+}
+#tea {
+	font-family:Neighbor;
+}
+#afternoontea {
+	margin-right: 20px;
+}
+#icons {
+	text-align: left;
+	display: flex;
+}
+#icon {
+	padding: 2px;
+}

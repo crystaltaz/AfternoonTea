@@ -1,0 +1,190 @@
+body {
+	margin: 0px;
+	color: #844348;
+	background: url("images/background2.png") no-repeat top fixed;
+	background-size: 100%;
+	background-position-y: -220px;
+	background-repeat: no-repeat;
+	background-color: #FFF6F6;
+}
+header {
+	display: flex;
+	justify-content: space-between;
+	color: #844348;
+	margin: 10px 80px;
+}
+#logo {
+	margin-top: 25px;
+}
+#nav {
+	margin-top: 35px;
+	display: flex;
+	justify-content: space-between;
+	width: 480px;
+}
+a {
+	text-decoration: none;
+	color: #5F5F68;
+}
+a#tab-1:hover {
+    color:#9B6042;
+}
+a#tab-2:hover {
+    color:#3CA08D;
+}
+a#tab-3:hover {
+    color:#BF7C81;
+}
+a#tab-4:hover {
+    color:#E4A883;
+}
+a#tab-5:hover {
+    color:#E4BB5E;
+}
+a#tab-6:hover {
+    color:#844348;
+}
+li {
+	text-decoration: none;
+	margin: 25px;
+	font-family: Source Sans 3;
+}
+h1 {
+	font-family: Dejanire Headline;
+	font-weight: 500;
+	font-style: italic;
+}
+#recipe{
+	font-family: Eric Machat Script;
+	font-weight: thin;
+	font-style: normal;
+}
+#rightlist {
+	list-style: numbers;
+}
+#leftlist {
+	list-style: square;
+}
+#section1 {
+	margin-top: 150px;
+}
+#div1 {
+	display: flex;
+	justify-content: center;
+}
+#title {
+	width: 280px;
+	font-size: 25px;
+	text-align: right;
+	margin-right: 50px;
+}
+#div2 {
+	display: flex;
+	justify-content: center;
+	margin-top: 50px;
+}
+#box {
+	margin-top: 15px;
+	padding: 50px;
+	justify-content: center;
+	text-align: center;
+}
+hr { 
+	transform: rotate(25deg);
+	height: 100px;
+	border: solid .05px #844348;
+	margin: 0px ;
+	margin-top: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+h3 {
+	font-family: Neighbor;
+	font-weight: lighter;
+	font-style: normal;
+	font-size: 12px;
+}
+#time {
+	font-family: Filosofia Reg All Small Caps;
+	font-size: 22px;
+	margin-bottom: -8px;
+}
+h4 {
+	font-family: Dejanire Headline;
+	font-weight: normal;
+	font-style: italic;
+	color: #5F5F68;
+}
+#div3 {
+	display: flex;
+	justify-content: center;
+	margin: 100px;
+}
+#left {
+	width: 230px;
+	height: 800px;
+	padding: 50px;
+}
+#ingridients {
+	margin-left: -60px;
+	height: 280px;
+}
+#imageleft1 {
+	margin-top: -100px;
+	margin-left: -80px;
+}
+#imageleft2 {
+	margin-left: -40px;
+	margin-top: 80px;
+}
+.vl {
+  border-left: 1px solid #844348;
+  height: 950px;
+}
+#imageright {
+	margin-top: 50px;
+	height: 250px;
+	align-items: center;
+}
+#right {
+	width: 350px;
+	padding: 50px;
+}
+#instructions {
+	margin-left: -60px;
+}
+#div4 {
+	text-align: center;
+	margin: 200px 380px;
+	font-size: 20px;
+	line-height: 28px;
+}
+#tab-6 {
+	font-style: italic;
+}
+footer {
+	margin: 0px;
+	background-color: #F8F3E7;
+}
+#content {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+h6 {
+	font-family: Dejanire Headline;
+	font-weight: normal;
+}
+#tea {
+	font-family:Neighbor;
+}
+#afternoontea {
+	margin-right: 20px;
+}
+#icons {
+	text-align: left;
+	display: flex;
+}
+#icon {
+	padding: 2px;
+}

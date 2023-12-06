@@ -1,0 +1,28 @@
+body {
+	margin: 0px;
+	background: #F7F4ED;
+	background: url("images/background22.png") no-repeat top fixed;
+	background-size: 100%;
+	background-position-y: -220px;
+	background-repeat: no-repeat;
+	color: #5F5F68;
+}
+header {
+	text-align: center;
+	margin-top: 240px;
+}
+h1 {
+	font-family: Dejanire Headline;
+	font-size: 50px;
+	font-weight: normal;
+}
+#tea {
+	font-family:Neighbor;
+}
+a {
+	text-decoration: none;
+	color: #5F5F68;
+}
+a:hover {
+	color: #AEAEAE;
+}

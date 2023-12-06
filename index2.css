@@ -1,0 +1,54 @@
+body {
+	margin: 0px;
+	background: #F7F4ED;
+	background: url("images/background2.png") no-repeat top fixed;
+	background-size: 100%;
+	background-position-y: -220px;
+	background-repeat: no-repeat;
+	color: #5F5F68;
+}
+header {
+	text-align: center;
+	margin-top: 240px;
+}
+#div1 {
+	margin-top: -110px;
+}
+h1 {
+	font-family: Dejanire Headline;
+	font-weight: normal;
+}
+#tea {
+	font-family:Neighbor;
+}
+#nav {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	list-style: none;
+	text-decoration: none;
+	height: 300px;
+}
+h3 {
+	font-family: Neighbor;
+	font-weight: lighter;
+}
+a {
+	text-decoration: none;
+	color: #5F5F68;
+}
+a#tab-1:hover {
+    color:#9B6042;
+}
+a#tab-2:hover {
+    color:#3CA08D;
+}
+a#tab-3:hover {
+    color:#BF7C81;
+}
+a#tab-4:hover {
+    color:#E4A883;
+}
+a#tab-5:hover {
+    color:#E4BB5E;
+}
